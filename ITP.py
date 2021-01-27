@@ -4,7 +4,7 @@ import math
 
 #picture = input("Enter the source of the image you want to draw:\n")
 #im = Image.open(f'{picture}')
-im = Image.open("test.png")
+im = Image.open("cat.png")
 hz = turtle.Turtle()
 turtle.colormode(255)
 hz.speed(0)
